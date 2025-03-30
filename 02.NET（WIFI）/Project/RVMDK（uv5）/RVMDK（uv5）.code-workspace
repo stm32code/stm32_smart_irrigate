@@ -1,0 +1,15 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "dht11.h": "c",
+            "adc.h": "c",
+            "stm32f10x.h": "c"
+        }
+    },
+    "extensions": {}
+}
